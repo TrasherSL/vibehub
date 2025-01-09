@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170867345250",
+    "project_id": "vibehub-2f129",
+    "storage_bucket": "vibehub-2f129.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170867345250:android:694c75276be42263154e3b",
+        "android_client_info": {
+          "package_name": "com.example.vibehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6Fd9bUvz1nAXnAf5hL2WZegxj6rxVQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
